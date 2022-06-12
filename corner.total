@@ -1,0 +1,8 @@
+
+rm ko
+
+gfortran -o ko corner.f em.f
+
+./ko
+
+
