@@ -1,5 +1,5 @@
 # CORNER
-Code to perform the Corner ALgorithm for detection of situations where the four gamete tes fails
+Code to perform the Corner ALgorithm for detection of situations where the four gamete test fails
 [README.txt](https://github.com/lgomezraya/CORNER/files/8886391/README.txt)
 README
 This program is written in FORTRAN and can be compiled and executed with gfortran of the GNU.
